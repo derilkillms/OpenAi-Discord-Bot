@@ -1,5 +1,8 @@
 # OpenAi-Discord-Chat-Bot
 
+![image](https://user-images.githubusercontent.com/49135753/211251172-0a326962-755b-453e-824f-5224015372f2.png)
+
+
 A discord bot where AI will answer your questions.
 
 Discord bot created using an API from openAI which read messages and returns answers.
